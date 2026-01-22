@@ -78,31 +78,17 @@ The theme is appropriate for exploring AI concepts because it uses multiple AI t
 
 ---
 
-### Module 6: [Title] _(optional)_
-
-**Topics:** _Course topic(s) covered_
-
-**Input:** _Clear specification of what this module receives_
-
-**Output:** _Clear specification of what this module produces_
-
-**Integration:** _How this module connects to the larger system_
-
-**Prerequisites:** _Prior modules or course content required_
-
----
-
 ## Feasibility Study
 
 _A timeline showing that each module's prerequisites align with the course schedule. Verify that you are not planning to implement content before it is taught._
 
-| Module | Required Topic(s)                                   |Topic Covered By| Checkpoint Due|
-| ------ | ----------------------------------------------------| ---------------| --------------|
-| 1      | Knowledge Representation, Knowledge Bases           | Week 2         | Checkpoint 1  |
-| 2      | Propositional Logic, Knowledge Bases, Inference     | Week 3         | Checkpoint 2  |
-| 3      | First-Order Logic                                   | Week 4         | Checkpoint 3  |
-| 4      | Search (Uniform Cost, A\*)                          | Week 5         | Checkpoint 4  |
-| 5      | Reinforcement Learning (Policy Learning, Q-Learning)| Week 8-9       | Checkpoint 5  |
+| Module | Required Topic(s)                                   |Topic Covered By| Checkpoint Due       |
+| ------ | ----------------------------------------------------| ---------------| ---------------------|
+| 1      | Knowledge Representation, Knowledge Bases           | Week 2         | Checkpoint 1 (Feb 11)|
+| 2      | Propositional Logic, Knowledge Bases, Inference     | Week 3         | Checkpoint 2 (Feb 26)|
+| 3      | First-Order Logic                                   | Week 4         | Checkpoint 3 (Mar 19)|
+| 4      | Search (Uniform Cost, A\*)                          | Week 5         | Checkpoint 4 (Apr 2) |
+| 5      | Reinforcement Learning (Policy Learning, Q-Learning)| Week 8-9       | Checkpoint 5 (Apr 16)|
 
 
 ## Coverage Rationale
